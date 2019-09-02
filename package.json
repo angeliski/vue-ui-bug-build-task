@@ -5,6 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --target lib --name myLib src/entry.js",
+    "build-works": "vue-cli-service build --target lib --name myLib",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
